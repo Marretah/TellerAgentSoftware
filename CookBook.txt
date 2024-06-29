@@ -1,0 +1,10 @@
+1 write a json file with all questions answers
+2 read the file into the program
+3 store the data as an JSON Hashmap with questions being the keys
+4 ask questions to the user
+5 calc the cosine similarity between the questions on the table and the questions asked by the user
+6 check which cosine is the highest
+7 check if it's above the minimal threshold for acceptable answer
+    7.1 if yes print the answer and return to the loop
+    7.2 if no print that was unable to find answer and return to the loop
+8 if user input = exit the software will end
